@@ -17,7 +17,7 @@
 
 ---
 
-- 📫 How to reach me: ...
+- 📫 How to reach me: ...  
 [Twitter](https://twitter.com/walkmana_25)
 
 ---
