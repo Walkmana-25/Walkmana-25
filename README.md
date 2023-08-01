@@ -17,8 +17,8 @@
 
 ---
 
-- 📫 How to reach me: ...  
-[Twitter](https://twitter.com/walkmana_25)
+- 📫 How to reach me: ...
+y.highbridge04 at gmail.com
 
 ---
 
