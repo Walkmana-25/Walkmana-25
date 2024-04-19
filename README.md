@@ -9,11 +9,8 @@
 
 - 🌱 I’m currently learning ...
 
-  - HTML
-  - CSS
-  - JavaScript
   - Rust
-  - Vue.js
+  - TypeScript
 
 ---
 
