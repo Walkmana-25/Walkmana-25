@@ -8,7 +8,7 @@
 ---
 
 - My home Lab
-   - https://solufit.github.io/infrastructure/
+   - https://github.com/Walkmana-25/homelab
 ---
 
 - 🌱 I’m currently learning ...
